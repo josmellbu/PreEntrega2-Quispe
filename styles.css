@@ -96,6 +96,10 @@ button{
 			padding: 0 30px;
 			letter-spacing: 2px;
 		}
+		.submenu-submenu{
+			color: inherit;
+  			text-decoration: none;
+		}
 	.promo1{
 		background: url(img/sec1.jpg);
 		background-position: center;
