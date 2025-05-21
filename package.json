@@ -1,0 +1,26 @@
+{
+  "name": "preentrega2-quispe",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000r\u0000e\u0000E\u0000n\u0000t\u0000r\u0000e\u0000g\u0000a\u00002\u0000-\u0000Q\u0000u\u0000i\u0000s\u0000p\u0000e\u0000\r\u0000 \u0000",
+  "main": "JQuery3.3.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss/styles.scss:styles.css",
+    "sass:watch": "sass --watch scss/styles.scss:styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josmellbu/PreEntrega2-Quispe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/josmellbu/PreEntrega2-Quispe/issues"
+  },
+  "homepage": "https://github.com/josmellbu/PreEntrega2-Quispe#readme",
+  "devDependencies": {
+    "sass": "^1.89.0"
+  }
+}
